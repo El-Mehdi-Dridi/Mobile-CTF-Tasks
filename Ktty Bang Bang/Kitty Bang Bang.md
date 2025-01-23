@@ -1,5 +1,5 @@
 # Kitty Bang Bang 
-in the source code we found this function 
+After decompiling the APK using JADX , in the source code we found this function 
 ```java
  public static final boolean onCreate$lambda$0(MainActivity this$0, View view, MotionEvent motionEvent) {
         Intrinsics.checkNotNullParameter(this$0, "this$0");
@@ -16,7 +16,7 @@ in the source code we found this function
     }
 ```
 
-The flag is stored in logs .
+The flag was stored in logs .
 
 So , we should used “ adb logcat “ to raed logs
 
