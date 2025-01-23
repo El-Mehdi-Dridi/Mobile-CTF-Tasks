@@ -1,5 +1,5 @@
 # Buggy Jumper 
-After decompiling the APK, I found a file named flag.gdc
+After decompiling the APK with JADX , I found a file named flag.gdc
 
 ![image](https://github.com/user-attachments/assets/9187d205-96f6-4b71-9b24-9e4dd75214c3)
 
