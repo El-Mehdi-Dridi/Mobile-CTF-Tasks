@@ -18,7 +18,7 @@ After decompiling the APK using JADX , in the source code we found this function
 
 The flag was stored in logs .
 
-So , we should used “ adb logcat “ to raed logs
+So , we should used “ adb logcat “ to read logs
 
 ```bash
 PS C:\Users\cat> adb logcat
